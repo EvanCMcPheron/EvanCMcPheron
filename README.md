@@ -1,5 +1,5 @@
 
-[![EvanCMcPeron's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanCMcPheron_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![EvanCMcPeron's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanCMcPheron&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
