@@ -5,6 +5,6 @@ I'm an aspiring self-taught programmer in the US. Recently I've primarily worked
 
 **About Me**
 - Pronouns: He/Him ♂️
-- I'd love to help out with easier rust projects 🦀
+- I'd love to help out with rust projects 🦀
 - You can reach me [here](https://github.com/EvanCMcPheron/EvanCMcPheron/issues) 📧
 - I use NeoVim 😏
