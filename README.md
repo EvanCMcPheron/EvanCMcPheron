@@ -1,4 +1,4 @@
-### Hello
+### Hey, I'm Evan
 I'm an aspiring self-taught programmer in the US. Recently I've primarily worked with Rust, although I'd like to learn more about web development and functional programming.
 
 [![EvanCMcPeron's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanCMcPheron&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
